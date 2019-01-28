@@ -5,13 +5,15 @@
 **Today's Progress**: 
 * Learn Javascript through The Odin Project
 
-**Thoughts:** They redirected me to freeCodeCamp.
+**Thoughts:** 
+* They redirected me to freeCodeCamp.
+* Looks like an old retread. Gonna go back and review on Youtube (where I started).
 
 ### Day 1: January 29, 2018
 
 **Today's Progress**:
-* Continue learning Javascript through the Odin Project
-* Learn how to use API's
+* Review Javascript [Link](https://www.youtube.com/user/TechGuyWeb)
+* Continue learning CSS3 basics [Link](https://www.youtube.com/user/TechGuyWeb)
 
 **Thoughts:**
 
@@ -20,14 +22,18 @@
 ### Day 2: January 30, 2018
 
 **Today's Progress**:
-* Continue learning Javascript through the Odin Project
+* Continue learning Javascript through the Odin Project/[Traversy Media (youtube)](https://www.youtube.com/user/TechGuyWeb)
+* Learn how to use API's
+
 
 **Thoughts:**
 
 ### Day 3: January 31, 2018
 
 **Today's Progress**:
-* Continue learning Javascript through the Odin Project
+* Continue learning Javascript through the Odin Project/[Traversy Media (youtube)](https://www.youtube.com/user/TechGuyWeb)
+* Learn Git.
+
 
 **Thoughts:**
 
@@ -36,7 +42,8 @@
 ### Day 4: February 1, 2018
 
 **Today's Progress**:
-*
+* Continue learning Javascript through the Odin Project/[Traversy Media (youtube)](https://www.youtube.com/user/TechGuyWeb)
+* Start building TopPlaylist: A web app that tracks the most played songs, albums, artists, and genres. Uses Spotify API and BottlePy. 
 
 **Thoughts:**
 
