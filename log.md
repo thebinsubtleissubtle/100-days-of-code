@@ -5,12 +5,13 @@
 **Today's Progress**: 
 * Learn Javascript through The Odin Project
 
-**Thoughts:** 
+**Thoughts:** They redirected me to freeCodeCamp.
 
 ### Day 1: January 29, 2018
 
 **Today's Progress**:
-*
+* Continue learning Javascript through the Odin Project
+* Learn how to use API's
 
 **Thoughts:**
 
@@ -19,16 +20,14 @@
 ### Day 2: January 30, 2018
 
 **Today's Progress**:
-*
+* Continue learning Javascript through the Odin Project
 
 **Thoughts:**
-
-**Links**
 
 ### Day 3: January 31, 2018
 
 **Today's Progress**:
-*
+* Continue learning Javascript through the Odin Project
 
 **Thoughts:**
 
