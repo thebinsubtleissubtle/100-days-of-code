@@ -14,8 +14,12 @@
 **Today's Progress**:
 * Review Javascript [Link](https://www.youtube.com/user/TechGuyWeb)
 * Continue learning CSS3 basics [Link](https://www.youtube.com/user/TechGuyWeb)
+* Learn Git
+* Continue doing What2Do app.
 
 **Thoughts:**
+* Having trouble integrating javascript files with BottlePy.
+
 
 **Links**
 
