@@ -27,7 +27,9 @@
 ### Day 2: January 30, 2018
 
 **Today's Progress**:
-* Continue learning Javascript through the Odin Project/[Traversy Media (youtube)](https://www.youtube.com/user/TechGuyWeb)
+* Continue learning Javascript through [Traversy Media (youtube)](https://www.youtube.com/user/TechGuyWeb)
+* Learn Sass
+* Continue doing What2Do app.
 * Learn how to use API's
 
 
