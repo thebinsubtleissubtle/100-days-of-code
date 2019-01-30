@@ -35,6 +35,9 @@
 
 
 **Thoughts:**
+* Had 7 commits on this repository because I had trouble with cloning repositories into the local directory.
+* Testing animations was fun!
+* Installed Ruby + devkit to get SASS.
 
 ### Day 3: January 31, 2019
 
