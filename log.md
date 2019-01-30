@@ -28,10 +28,9 @@
 
 **Today's Progress**:
 * Continue learning Javascript through [Traversy Media (youtube)](https://www.youtube.com/user/TechGuyWeb)
-* Learn Sass
-* Continue doing What2Do app.
-* Continue learning CSS3 Animations and Transitions.
-* Learn DOM Manipulations.
+* Continued doing What2Do app.
+* Continued learning CSS3 Animations and Transitions.
+* Learned Spotipy.
 
 
 **Thoughts:**
@@ -43,7 +42,9 @@
 
 **Today's Progress**:
 * Continue learning Javascript through [Traversy Media (youtube)](https://www.youtube.com/user/TechGuyWeb)
-* Learn JSON files.
+* Continue learning Spotipy.
+* Learn SASS.
+* Learn DOM Manipulations.
 
 **Thoughts:**
 
@@ -62,7 +63,7 @@
 ### Day 5: February 4, 2019
 
 **Today's Progress**:
-*
+* Start building TopPlaylist: A web app that tracks the most played songs, albums, artists, and genres. Uses Spotify API and BottlePy. 
 
 **Thoughts:**
 
@@ -71,7 +72,7 @@
 ### Day 6: February 5, 2019
 
 **Today's Progress**:
-*
+* Start building TopPlaylist: A web app that tracks the most played songs, albums, artists, and genres. Uses Spotify API and BottlePy. 
 
 **Thoughts:**
 
