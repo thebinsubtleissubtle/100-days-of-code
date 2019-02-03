@@ -52,10 +52,11 @@
 ### Day 4: February 3, 2019
 
 **Today's Progress**:
-* Continue learning Javascript through the Odin Project/[Traversy Media (youtube)](https://www.youtube.com/user/TechGuyWeb)
-* Continue building TopPlaylist: A web app that tracks the most played songs, albums, artists, and genres. Uses Spotify API and BottlePy. 
+* Continued building TopPlaylist: A web app that tracks the most played songs, albums, artists, and genres. Uses Spotify API and BottlePy. 
 
 **Thoughts:**
+* Cleaned code. Instead of passing on placeholder variables, I put it on a single variable.
+* Made tables with tracks and artists items.
 
 **Links**
 
@@ -63,6 +64,8 @@
 
 **Today's Progress**:
 * Learn DOM Manipulations.
+* Continue learning Javascript through the Odin Project/[Traversy Media (youtube)](https://www.youtube.com/user/TechGuyWeb)
+* Continue building TopPlaylist: A web app that tracks the most played songs, albums, artists, and genres. Uses Spotify API and BottlePy. 
 
 **Thoughts:**
 
