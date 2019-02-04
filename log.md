@@ -58,29 +58,28 @@
 * Cleaned code. Instead of passing on placeholder variables, I put it on a single variable.
 * Made tables with tracks and artists items.
 
-**Links**
-
 ### Day 5: February 4, 2019
 
 **Today's Progress**:
-* Learn DOM Manipulations.
+* Stared re-learning DOM Manipulations.
+* Continue building TopPlaylist: A web app that tracks the most played songs, albums, artists, and genres. Uses Spotify API and BottlePy. 
+
+**Thoughts:**
+* Began working on modes. (Whether the user wants to show particular types(tracks or artists), terms(short, medium, long), and number of items that will be shown).
+
+### Day 6: February 5, 2019
+
+**Today's Progress**:
 * Continue learning Javascript through the Odin Project/[Traversy Media (youtube)](https://www.youtube.com/user/TechGuyWeb)
+* Continue learning DOM Manipulation.
 * Continue building TopPlaylist: A web app that tracks the most played songs, albums, artists, and genres. Uses Spotify API and BottlePy. 
 
 **Thoughts:**
 
 **Links**
 
-### Day 6: February 5, 2019
-
-**Today's Progress**:
-* Continue learning Javascript through the Odin Project/[Traversy Media (youtube)](https://www.youtube.com/user/TechGuyWeb)
-
-**Thoughts:**
-
-**Links**
-
 ### Day 7: February 6, 2019
+* Continue building TopPlaylist: A web app that tracks the most played songs, albums, artists, and genres. Uses Spotify API and BottlePy. 
 
 **Today's Progress**:
 *
@@ -90,6 +89,7 @@
 **Links**
 
 ### Day 8: February 7, 2019
+* Continue building TopPlaylist: A web app that tracks the most played songs, albums, artists, and genres. Uses Spotify API and BottlePy. 
 
 **Today's Progress**:
 *
@@ -99,6 +99,7 @@
 **Links**
 
 ### Day 9: February 8, 2019
+* Continue building TopPlaylist: A web app that tracks the most played songs, albums, artists, and genres. Uses Spotify API and BottlePy. 
 
 **Today's Progress**:
 *
@@ -108,6 +109,7 @@
 **Links**
 
 ### Day 10: February 9, 2019
+* Continue building TopPlaylist: A web app that tracks the most played songs, albums, artists, and genres. Uses Spotify API and BottlePy. 
 
 **Today's Progress**:
 *
