@@ -66,6 +66,7 @@
 
 **Thoughts:**
 * Began working on modes. (Whether the user wants to show particular types(tracks or artists), terms(short, medium, long), and number of items that will be shown).
+* Started working on CSS.
 
 ### Day 6: February 5, 2019
 
