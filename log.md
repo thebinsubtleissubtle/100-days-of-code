@@ -72,12 +72,17 @@
 
 **Today's Progress**:
 * Continue learning Javascript through the Odin Project/[Traversy Media (youtube)](https://www.youtube.com/user/TechGuyWeb)
+* Learned Parallax website building
 * Continue learning DOM Manipulation.
 * Continue building TopPlaylist: A web app that tracks the most played songs, albums, artists, and genres. Uses Spotify API and BottlePy. 
 
 **Thoughts:**
+* Pushed TopPlaylist on GitHub.
+* Started working on search function.
+* I made the landing page to a parallax website.
 
 **Links**
+* [TopPlaylist](https://www.github.com/thebinsubtleissubtle/topPlaylist)
 
 ### Day 7: February 6, 2019
 * Continue building TopPlaylist: A web app that tracks the most played songs, albums, artists, and genres. Uses Spotify API and BottlePy. 
