@@ -61,7 +61,7 @@
 ### Day 4: February 3, 2019
 
 **Today's Progress**:
-* Continued building TopPlaylist: A web app that tracks the most played songs, albums, artists, and genres. Uses Spotify API and BottlePy. 
+* Continued building TopPlaylist: A web app that tracks the most played songs, albums, artists, and genres. Uses Spotify API and BottlePy. (most_played.html)
 
 **Thoughts:**
 * Cleaned code. Instead of passing on placeholder variables, I put it on a single variable.
@@ -75,7 +75,7 @@
 
 **Today's Progress**:
 * Stared re-learning DOM Manipulations.
-* Continue building TopPlaylist: A web app that tracks the most played songs, albums, artists, and genres. Uses Spotify API and BottlePy. 
+* Continue building TopPlaylist: A web app that tracks the most played songs, albums, artists, and genres. Uses Spotify API and BottlePy. (most_played.html)
 
 **Thoughts:**
 * Began working on modes. (Whether the user wants to show particular types(tracks or artists), terms(short, medium, long), and number of items that will be shown).
@@ -86,7 +86,7 @@
 **Today's Progress**:
 * Learned Parallax website building.
 * Continue learning DOM Manipulation.
-* Continue building TopPlaylist: A web app that tracks the most played songs, albums, artists, and genres. Uses Spotify API and BottlePy. 
+* Continue building TopPlaylist: A web app that tracks the most played songs, albums, artists, and genres. Uses Spotify API and BottlePy. (Parallax Website, search bar, and landing page.)
 
 **Thoughts:**
 * Pushed TopPlaylist on GitHub.
@@ -101,12 +101,23 @@
 ### Day 7: February 6, 2019
 
 **Today's Progress**:
-* Continue building TopPlaylist: A web app that tracks the most played songs, albums, artists, and genres. Uses Spotify API and BottlePy. 
+* Continue building TopPlaylist: A web app that tracks the most played songs, albums, artists, and genres. Uses Spotify API and BottlePy. (Pagination).
 * Continue learning DOM Manipulation.
 
 **Thoughts:**
+* In search.html, I worked on the functionality of pagination. This was on the previous and next buttons *alone*. It was wrong to load JSON from the link because it's a goddamned link and you can't load json data from an API link. So I made a global variable `LIMIT` and `OFFSET` then made a function `get_offset()` ehich gets the `offset`, `limit`, and `type` that returns a added/subtracted offset value depending on the limit set by user.
+* ~~I created another global function called `process_pagination()` which accepts `keyword`, `offset`, `limit`, and `type` values while returning the `result` object.~~ That function is not necessary since it runs the same as `search()`, so I copied it and made it `page()` then `@app.route("/search/<keyword>/<type>")` has now `/<curr_offset:int>/`
+
 
 **Links:**
 * [TopPlaylist](https://www.github.com/thebinsubtleissubtle/topPlaylist)
 * [Traversy Media (youtube)](https://www.youtube.com/user/TechGuyWeb)
 
+### Day 8: February 7, 2019
+
+**Today's Progress**:
+* 
+
+**Thoughts:**
+
+**Links**
